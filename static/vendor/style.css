@@ -1,0 +1,55 @@
+#map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw; /* Full width of the viewport */
+    height: 100vh; /* Full height of the viewport */
+    z-index: 1; /* Ensure it's properly layered under other content */
+}
+
+.leaflet-control{
+    z-index: 1100; /* Ensure it's properly layered over the map */
+}
+
+.title-control {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba(131, 199, 255, 0.337);
+}
+
+.side-bar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30vw;
+    min-width: 300px;
+    height: 100vh;
+    overflow: auto;
+    z-index: 1000;
+    background: rgba(131, 199, 255, 0.337);
+}
+
+#timeline {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 150px; /* Adjust based on your content size */
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap; /* This ensures that the children (image containers) are laid out in a single row */
+    z-index: 1000;
+    background: rgba(131, 199, 255, 0.337);
+}
+
+#story {
+    position: absolute;
+    width: 30vw;
+    min-width: 300px;
+    right: 0px;
+    height: 100vh;
+    overflow: auto;
+    z-index: 1000;
+    background: rgba(131, 199, 255, 0.337);
+}

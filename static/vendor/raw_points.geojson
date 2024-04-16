@@ -1,0 +1,96 @@
+{
+
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "title": "Triest" },
+      "geometry": {
+        "coordinates": [13.765728927376387,
+        45.64868099043588],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Messina" },
+      "geometry": {
+        "coordinates": [15.554242305579805,
+        38.18839376501106],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "Gibraltar" },
+      "geometry": {
+        "coordinates": [-5.363536979860783,
+        36.148607969837],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+        "type": "Feature",
+        "properties": { "title": "Rabat" },
+        "geometry": {
+          "coordinates": [-6.832486847136067,
+          34.025070689834266],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": { "title": "Oran" },
+        "geometry": {
+          "coordinates": [-0.6728842132049522,
+          35.70778374304065],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": { "title": "Tunis" },
+        "geometry": {
+          "coordinates": [10.179593703470289,
+          36.80956514219976],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": { "title": "Tripoli" },
+        "geometry": {
+          "coordinates": [13.1707424603932,
+          32.89016517972075],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": { "title": "Alexandria" },
+        "geometry": {
+          "coordinates": [29.882105968238022,
+          31.20904013795149],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": { "title": "Jerusalem" },
+        "geometry": {
+          "coordinates": [35.20443141579426,
+          31.75842331858172],
+          "type": "Point"
+        },
+        "id": 8
+      }
+  ]
+}

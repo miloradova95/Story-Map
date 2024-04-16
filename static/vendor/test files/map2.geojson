@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.77678, 45.64953],
+        "title": "Trieste",
+        "description": "Trieste (3165185), imported from GeoNames",
+        "shapeType": "centerpoint"
+      },
+      "properties": {
+        "@id": 196366,
+        "systemClass": "object_location",
+        "viewClass": null,
+        "name": "Location of Trieste",
+        "description": null,
+        "begin_earliest": null,
+        "begin_latest": null,
+        "begin_comment": null,
+        "end_earliest": null,
+        "end_latest": null,
+        "end_comment": null,
+        "types": []
+      }
+    }
+  ]
+}
